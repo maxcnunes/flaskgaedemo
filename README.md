@@ -45,8 +45,6 @@ Flask and Google App Engine
  3. Create the configuration of your appliction for Google App Engine https://github.com/maxcnunes/flaskgaedemo/blob/master/app.yaml
  4. Create a file to let GAE initialize your application https://github.com/maxcnunes/flaskgaedemo/blob/master/initialize_gae.py
 
-(Look a example of the code here: https://github.com/maxcnunes/flaskgaedemo )
-
 **Install Flask to run Locally**
 
  1. Execute `pip install flask`
