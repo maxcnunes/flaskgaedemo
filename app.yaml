@@ -1,0 +1,8 @@
+application: flaskdemo
+version: 3
+runtime: python
+api_version: 1
+
+handlers:
+- url: .*
+  script: initialize_gae.py
